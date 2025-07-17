@@ -1,0 +1,15 @@
+/workspaces/TestAPP/DSA_Test/bin/Debug/net8.0/DSA_Test
+/workspaces/TestAPP/DSA_Test/bin/Debug/net8.0/DSA_Test.deps.json
+/workspaces/TestAPP/DSA_Test/bin/Debug/net8.0/DSA_Test.runtimeconfig.json
+/workspaces/TestAPP/DSA_Test/bin/Debug/net8.0/DSA_Test.dll
+/workspaces/TestAPP/DSA_Test/bin/Debug/net8.0/DSA_Test.pdb
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.AssemblyInfoInputs.cache
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.AssemblyInfo.cs
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.csproj.CoreCompileInputs.cache
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.sourcelink.json
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.dll
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/refint/DSA_Test.dll
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.pdb
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/DSA_Test.genruntimeconfig.cache
+/workspaces/TestAPP/DSA_Test/obj/Debug/net8.0/ref/DSA_Test.dll
